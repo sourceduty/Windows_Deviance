@@ -13,3 +13,5 @@ Analyze each Windows file and setting deviation. Find deviations by comparing de
 ## FUTURE UPDATES
 
 - Microsoft Windows system deviation rating.
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
