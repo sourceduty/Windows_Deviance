@@ -25,6 +25,10 @@ Future updates to the software could introduce a Windows system deviation rating
 Overall, this software concept aims to empower users by providing transparency and control over their Windows environment. By making it easy to detect, analyze, and understand system changes, the tool would enhance the user experience, improve system management, and potentially increase the security and performance of Windows systems.
 
 #
+
+> Alex: "*This is a good idea that I want to use for Windows, Linux, macOS or Sourceduty OS.*"
+
+#
 ### Related Links
 
 [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
