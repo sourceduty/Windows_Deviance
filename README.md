@@ -39,6 +39,8 @@ Overall, Operating System Diagnostics is an essential practice for anyone lookin
 
 > Alex: "*This is a good idea that I want to use for Windows, Linux, macOS or Sourceduty OS.*"
 
+> "*This is very possible, not very difficult, but very complex and time consuming.*"
+
 #
 ### Related Links
 
